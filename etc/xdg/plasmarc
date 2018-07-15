@@ -2,4 +2,7 @@
 plainClockColor=7,33,0
 
 [Theme]
-name=breath
+name=AdaptaBreath
+
+[Wallpapers]
+usersWallpapers=/usr/share/backgrounds/illyria-default.jpg
