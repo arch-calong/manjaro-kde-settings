@@ -1,2 +1,5 @@
 [Desktops]
 Number=2
+
+[org.kde.kdecoration2]
+theme=__aurorae__svg__AdaptaBreath
