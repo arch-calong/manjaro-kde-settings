@@ -1,8 +1,8 @@
 [General]
 shadeSortColumn=true
 BrowserApplication=firefox
-ColorScheme=Breath
-Name=Breath
+ColorScheme=Breath2
+Name=Breath2
 fixed=Noto Mono,9,-1,0,50,0,0,0,0,0
 font=Noto Sans,10,-1,5,50,0,0,0,0,0
 menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0
@@ -10,13 +10,13 @@ smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0
 toolBarFont=Noto Sans,9,-1,5,50,0,0,0,0,0
 
 [Icons]
-Theme=breath
+Theme=breath2
 
 [KDE]
 ChangeCursor=true
-ColorScheme=Breath
+ColorScheme=Breath2
 contrast=7
-LookAndFeelPackage=org.kde.breath.desktop
+LookAndFeelPackage=org.kde.breath2.desktop
 widgetStyle=breeze
 
 [Paths]
