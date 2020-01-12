@@ -1,11 +1,8 @@
 [Desktop Entry]
-DefaultProfile=Shell.profile
+DefaultProfile=Breath2.profile
 
 [Dialogs]
 FirstRun=false
-
-[Favorite Profiles]
-Favorites=Shell.profile
 
 [Window]
 KeepOpen=false
