@@ -71,5 +71,19 @@ showDate=true
 DialogHeight=540
 DialogWidth=720
 
+[Containments][1][Applets][9]
+immutability=1
+plugin=org.kde.redshiftControl
+
+[Containments][1][Applets][9][Configuration][Advanced]
+geoclueLocationEnabled=true
+
+[Containments][1][Applets][9][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][1][Applets][9][Configuration][General]
+autostart=false
+
 [Containments][1][General]
-AppletOrder=2;3;4;5;6;7;8
+AppletOrder=2;3;4;5;6;7;8;9
