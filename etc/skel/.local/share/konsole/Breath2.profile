@@ -1,5 +1,5 @@
 [Appearance]
-ColorScheme=Breath2-Dark
+ColorScheme=Breath2
 Font=Noto Mono,10,-1,0,50,0,0,0,0,0
 
 [General]
