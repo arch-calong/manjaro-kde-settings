@@ -1,5 +1,5 @@
 [Appearance]
-ColorScheme=Breath2-Silverfox
+ColorScheme=Breath2-Dark
 Font=Noto Mono,10,-1,0,50,0,0,0,0,0
 
 [General]
