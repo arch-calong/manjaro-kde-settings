@@ -1,3 +1,6 @@
+[$Version]
+update_info=fonts_kate.upd:Plasma_Fonts_Kate
+
 [Visual Studio (Light)]
 Color Background=255,255,255
 Color Code Folding=246,247,250
@@ -26,7 +29,7 @@ Color Template Editable Placeholder=186,249,206
 Color Template Focused Editable Placeholder=186,249,206
 Color Template Not Editable Placeholder=247,230,230
 Color Word Wrap Marker=237,237,237
-Font=Monospace,10,-1,5,50,0,0,0,0,0
+Font=Monospace,10,-1,2,50,0,0,0,0,0
 dummy=prevent-empty-group
 
 [Visual Studio (Dark)]
@@ -57,5 +60,5 @@ Color Template Editable Placeholder=186,249,206
 Color Template Focused Editable Placeholder=186,249,206
 Color Template Not Editable Placeholder=247,230,230
 Color Word Wrap Marker=21,72,82
-Font=Monospace,10,-1,5,50,0,0,0,0,0
+Font=Monospace,10,-1,2,50,0,0,0,0,0
 dummy=prevent-empty-group
