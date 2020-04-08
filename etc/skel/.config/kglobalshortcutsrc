@@ -8,4 +8,5 @@ Window Quick Tile Top=Meta+Up,Meta+Up,Quick Tile Window to the Top
 Window Quick Tile Top Left=Meta+Shift+Up,none,Quick Tile Window to the Top Left
 Window Quick Tile Top Right=Meta+Shift+Right,none,Quick Tile Window to the Top Right
 Window Maximize=Meta+W,Meta+PgUp,Maximise Window
+Switch Window Up=,Meta+Alt+Up,Switch to Window Above
 Window Minimize=Meta+Alt+Down,Meta+PgDown,Minimise WindowBelow
