@@ -1,4 +1,4 @@
-[Added Associations]
+[Default Applications]
 application/pdf=okular.desktop;
 application/x-bittorrent=qBittorrent.desktop;
 application/x-zerosize=org.kde.kate.desktop;
@@ -7,8 +7,6 @@ text/html=firefox.desktop;org.kde.falkon.desktop;
 text/plain=org.kde.kate.desktop;
 inode/directory=org.kde.dolphin.desktop;
 application/x-shellscript=org.kde.kate.desktop;
-
-[Default Applications]
 application/pdf=okular.desktop;
 application/x-bittorrent=qBittorrent.desktop;
 application/x-zerosize=org.kde.kate.desktop;
