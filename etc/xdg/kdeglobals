@@ -1,7 +1,7 @@
 [General]
 shadeSortColumn=true
 BrowserApplication=firefox
-ColorScheme=Breath2
+ColorScheme=Breath22021Light
 Name=Breath2
 fixed=Noto Mono,10,-1,0,50,0,0,0,0,0
 font=Noto Sans,10,-1,5,50,0,0,0,0,0
@@ -15,9 +15,11 @@ Theme=breath2
 [KDE]
 SingleClick=false
 ChangeCursor=true
-ColorScheme=Breath2
+ColorScheme=Breath22021Light
 contrast=7
-LookAndFeelPackage=org.kde.breath2.desktop
+LookAndFeelPackage=org.manjaro.breath2-2021.desktop
+DefaultLightLookAndFeel=org.manjaro.breath2-2021-light.desktop
+DefaultDarkLookAndFeel=org.manjaro.breath2-2021-dark.desktop
 widgetStyle=breeze
 
 [Paths]

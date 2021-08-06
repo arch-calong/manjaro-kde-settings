@@ -21,7 +21,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][1][Applets][2][Configuration][General]
-favorites=firefox.desktop,org.kde.dolphin.desktop,org.kde.konversation.desktop,libreoffice-writer.desktop,cantata.desktop,kde4-digikam.desktop,org.kde.konsole.desktop,pamac-manager.desktop,pamac-updater.desktop,systemsettings.desktop
+favorites=firefox.desktop,org.kde.dolphin.desktop,libreoffice-writer.desktop,elisa.desktop,kde4-digikam.desktop,org.kde.konsole.desktop,pamac-manager.desktop,pamac-updater.desktop,systemsettings.desktop
 
 [Containments][1][Applets][2][Configuration][Shortcuts]
 global=Alt+F1
@@ -29,45 +29,42 @@ global=Alt+F1
 [Containments][1][Applets][2][Shortcuts]
 global=Alt+F1
 
-[Containments][1][Applets][3]
-immutability=1
-plugin=org.kde.plasma.pager
 
-[Containments][1][Applets][4]
+[Containments][1][Applets][3]
 immutability=1
 plugin=org.kde.plasma.icontasks
 
-[Containments][1][Applets][4][Configuration][General]
+[Containments][1][Applets][3][Configuration][General]
 launchers=applications:org.kde.dolphin.desktop,applications:firefox.desktop
 
-[Containments][1][Applets][5]
+[Containments][1][Applets][4]
 immutability=1
 plugin=org.kde.plasma.showdesktop
 
-[Containments][1][Applets][6]
+[Containments][1][Applets][5]
 immutability=1
-plugin=org.kde.plasma.trash
+plugin=org.kde.plasma.pager
 
-[Containments][1][Applets][7]
+[Containments][1][Applets][6]
 immutability=1
 plugin=org.kde.plasma.systemtray
 
-[Containments][1][Applets][7][Configuration][Containments][8]
+[Containments][1][Applets][6][Configuration][Containments][8]
 formfactor=2
 location=4
 
-[Containments][1][Applets][8]
+[Containments][1][Applets][7]
 immutability=1
 plugin=org.kde.plasma.digitalclock
 
-[Containments][1][Applets][8][Configuration]
+[Containments][1][Applets][7][Configuration]
 PreloadWeight=15
 
-[Containments][1][Applets][8][Configuration][Appearance]
+[Containments][1][Applets][7][Configuration][Appearance]
 dateFormat=custom
 showDate=true
 
-[Containments][1][Applets][8][Configuration][ConfigDialog]
+[Containments][1][Applets][7][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
