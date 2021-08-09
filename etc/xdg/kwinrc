@@ -2,6 +2,7 @@
 Number=2
 
 [Plugins]
+glideEnabled=true
 blurEnabled=true
 contrastEnabled=false
 
