@@ -1,38 +1,15 @@
 [General]
-shadeSortColumn=true
-BrowserApplication=firefox
-ColorScheme=Breath22021Light
-Name=Breath2
-fixed=Noto Mono,10,-1,0,50,0,0,0,0,0
-font=Noto Sans,10,-1,5,50,0,0,0,0,0
-menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0
-smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0
-toolBarFont=Noto Sans,9,-1,5,50,0,0,0,0,0
+ColorScheme=BreathLight
+Name=Breath Light
 
 [Icons]
-Theme=breath2
+Theme=breeze
 
 [KDE]
 SingleClick=false
 ChangeCursor=true
-ColorScheme=Breath22021Light
-contrast=7
-LookAndFeelPackage=org.manjaro.breath2-2021.desktop
-DefaultLightLookAndFeel=org.manjaro.breath2-2021-light.desktop
-DefaultDarkLookAndFeel=org.manjaro.breath2-2021-dark.desktop
+ColorScheme=BreathLight
+LookAndFeelPackage=org.manjaro.breath.desktop
+DefaultLightLookAndFeel=org.manjaro.breath-light.desktop
+DefaultDarkLookAndFeel=org.manjaro.breath-dark.desktop
 widgetStyle=breeze
-
-[Paths]
-Trash=$HOME/Desktop/Trash/
-
-[PreviewSettings]
-MaximumSize=3145728
-camera=true
-file=true
-fonts=true
-
-[Directories]
-dir_pixmap=/usr/share/pixmaps
-
-[KFileDialog Settings]
-Breadcrumb Navigation=true
