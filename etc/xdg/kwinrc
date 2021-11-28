@@ -5,6 +5,3 @@ Number=2
 glideEnabled=true
 blurEnabled=true
 contrastEnabled=false
-
-[Effect-PresentWindows]
-LayoutMode=1
